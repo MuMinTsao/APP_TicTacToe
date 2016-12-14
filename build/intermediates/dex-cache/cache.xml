@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c56fd5cbe6125f9feb996b1a235982a74a0ef1ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5fe494fab036a0b6f8013e1f9310894b4e9e173">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc6c29dfedd5f96647b600ad7ca2aa0159d45cd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_30732b8ed447fd0164e71f7257b7c874e7f57775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bea12589ea04cc009bd35c1c41b1924dbef54cdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7efbd04ba5b4b930bd1dd17d4d7085990b940b7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67401d467cae3922a94aec3142786826ab742c60">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9efe1f2f20508cb1a092b5fe51d808aecedcc1ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ebb97c0264f3fef542f8a7c351242a8d11814d03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lalalilalat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/lalalilalat/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c1b5c44b34180cc40a590da68cea3a871663ab94/classes.dex" />
+    </item>
+
+</items>
